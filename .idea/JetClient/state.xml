@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="id" value="dcc085d1-75af-456f-a0b1-01fee6208bb0" />
+          <option name="name" value="user-withDB" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="id" value="cb1fe8cc-be87-4bca-b506-3168b5cf81a9" />
+                <option name="method" value="GET" />
+                <option name="name" value="get users" />
+                <option name="url" value="http://localhost:8080/api/v1/users" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="F:\Courses practice\FastAPI\user-withDB" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="5b0f5f6c-97d5-4bb8-ab81-22ffa44d2d8f" />
+  </component>
+</project>
